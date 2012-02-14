@@ -38,7 +38,6 @@ PRODUCT_PACKAGES := \
     QuickSearchBox \
     Settings \
     Sync \
-    SystemUI \
     Updater \
     CalendarProvider \
     SyncProvider
